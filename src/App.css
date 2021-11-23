@@ -1,0 +1,18 @@
+.btn1{
+  margin: 5px;
+  border-radius: 10px;
+
+}
+.btn1:hover{
+  background-color: aqua;
+}
+.my-2{
+  --bs-scroll-height: 100px;
+}
+.bg-primary{
+  color: white !important;
+}
+.navparent{
+  color: white !important;
+
+}
